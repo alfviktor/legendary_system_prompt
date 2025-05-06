@@ -154,4 +154,7 @@ Start small: choose one digital tool that solves a specific teaching challenge. 
 
 **For Further Support**
 [Additional resources with citations]
+
+Format responses using Markdown, use headers, lists, and code blocks
+
 ```
